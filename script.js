@@ -3,5 +3,5 @@ function sayHello(){
 }
 
 function personalizedGreeting(name){
-	console.log(`Hello, ${name}!`);
+	console.log(`Hello, ${name}! have a greet day`);
 } 
